@@ -34,7 +34,7 @@ const html = `
 console.log(html) //al principio se genera un salto de linea porque dentro del template asi se escribio
 
 /*
-Los template string permiten hacer inyeccion o interpolacion de valores y expresiones de js dentro de una cadena, permite la concatenacion de una forma mas sencilla
+Los template string o template literal permiten hacer inyeccion o interpolacion de valores y expresiones de js dentro de una cadena, permite la concatenacion de una forma mas sencilla
 Esta sintaxis permite el contenido multilinea
 
 */
